@@ -19,7 +19,7 @@ This repository is where I document everything I learn — step by step — to b
 ## 🗓️ Monthly Progress
 
 ### **October 2025**
--[Week-1](./October 2025/week-1.md)
+- [Week-1](./October 2025/week-1.md)
 - [Linux Basics](./October-2025/linux-basics.md)
 - [Networking Fundamentals](./October-2025/networking-fundamentals.md)
 
