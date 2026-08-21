@@ -4,7 +4,7 @@ A personal documentation of my DevOps, Cloud, and Networking learning journey.
 
 # 🚀 My Learning Journey (2025–2026)
 
-Hi, I'm **Prince Kumar**, a CSE apprentice at **C-DOT** passionate about exploring **networking, DevOps, and cloud technologies**.  
+Hi, I'm **Prince Kumar**, a B.Tech (CSE) apprentice at **C-DOT** passionate about exploring **networking, DevOps, and cloud technologies**.  
 This repository is where I document everything I learn — step by step — to build strong technical skills and prepare for a professional career.
 
 
